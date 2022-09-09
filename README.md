@@ -5,7 +5,7 @@
 * [Netlify](https://youtube-responsive-ui-clone.netlify.app/)
 
 
-### Kullanılan Teknolojiler
+### Used Technologies
  * HTML5  
  * CSS3 
  * JavaScript
