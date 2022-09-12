@@ -9,3 +9,12 @@
  * HTML5  
  * CSS3 
  * JavaScript
+
+
+
+
+
+
+
+## License
+[![License](https://img.shields.io/badge/LICENSE-GPL--3.0-orange)](https://github.com/mustafadalga/youtube-ui-clone/blob/master/LICENSE)
